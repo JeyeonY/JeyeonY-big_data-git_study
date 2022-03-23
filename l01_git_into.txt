@@ -13,4 +13,7 @@
 8. git status 로 저장할 수 있는 상태인지 확인하기
 9. git log --oneline --decorate --graph --all 으로 커밋 이력확인하기
 10. 저장할때 add를 같이 하는 방법  => git commit -a -m "설명"  (-a는 git add* 과 같다)
-11.git diff 로 파일 상태 비교(스냅샷이 찍힐 내역확인)
+11. git diff 로 파일 상태 비교(스냅샷이 찍힐 내역확인)
+12. github 가입 후 레파지토리 생성
+13. 생성 할 레파지토리 주소를 등록 git remote add (리모트 저장소 이름) (github 주소)
+14. git push 저장소 이름 브랜치이름 : 리모트 저장소에 작업중인 가지의 이력 등록
