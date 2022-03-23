@@ -1,0 +1,6 @@
+1. git 사이트에서 설치
+2. 명령 프롬프트에서  git config --global user.name & user. email 등록
+3. git으로 관리할 프로젝트 폴더로 이동 ( ex: 드라이브 변경하고 싶으시면 cd 없이 g: 쓰기) 해서 터미널 열기 (우클릭 git bash)
+4. gin init 명령으로 git 저장소 생성
+5. git add * 로 감시한 파일 추가
+6. git commit 으로 저장소에 저장하기 (파일 또는 스냅샷)
