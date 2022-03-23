@@ -2,8 +2,12 @@
 2. 명령 프롬프트에서  git config --global user.name & user. email 등록
 3. git으로 관리할 프로젝트 폴더로 이동 ( ex: 드라이브 변경하고 싶으시면 cd 없이 g: 쓰기) 해서 터미널 열기 (우클릭 git bash)
 4. gin init 명령으로 git 저장소 생성
-5. git add * 로 감시한 파일 추가 (상태 확인 : git status)
-6. git commit -m(메세지) "버전 설명" 으로 저장소에 저장하기 (파일 또는 스냅샷)
-7. 내용 바뀌는거 저장하고 싶을때마다 저장하고 5번 실행 후 메세지 추가 하여 6번 실행
-8. git log --oneline --decorate --graph --all 으로 커밋 이력확인하기
+
+5. 파일 생성 후 저장
+
+6. git add * 로 감시한 파일 추가 (상태 확인 : git status)
+7. git commit -m(메세지) "버전 설명" 으로 저장소에 저장하기 (파일 또는 스냅샷)
+8. 내용 바뀌는거 저장하고 싶을때마다 저장하고 5번 실행 후 메세지 추가 하여 6번 실행
+9. git status 로 저장할 수 있는 상태인지 확인하기
+10. git log --oneline --decorate --graph --all 으로 커밋 이력확인하기
 
