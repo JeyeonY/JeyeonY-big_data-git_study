@@ -12,4 +12,4 @@
 7. 내용 바뀌는거 저장하고 싶을때마다 저장하고 5번 실행 후 메세지 추가 하여 6번 실행
 8. git status 로 저장할 수 있는 상태인지 확인하기
 9. git log --oneline --decorate --graph --all 으로 커밋 이력확인하기
-
+10. 저장할때 add를 같이 하는 방법  => git commit -a -m "설명"  (-a는 git add* 과 같다)
